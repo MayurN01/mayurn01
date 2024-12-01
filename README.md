@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhinav Nandekar  
+# 👋 Hi, I’m Mayur Nanaware
 Passionate about solving real-world problems using technology and learning IT Infrastructure & Management, DevOps methodologies, and Cybersecurity.  
 
 ---
