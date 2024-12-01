@@ -1,4 +1,4 @@
-## Hi, I am Mayur Nanaware 👋 
+# Hi, I am Mayur Nanaware 👋 
 With foundation in AI, IT Infrastructure, DevOps, and Cybersecurity, I focus on solving real-world problems through technology. Feel free to explore my projects, contribute, or reach out—I’m always up for collaboration and learning!"
 
 ### 🔭  Technical Expertise
