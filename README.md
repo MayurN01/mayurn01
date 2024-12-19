@@ -1,23 +1,4 @@
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-
-.wave {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation: wave 2s infinite;
-}
-</style>
-
-# <span class="wave">👋</span> How you doing?
+# Hey! How you doin'?
 Passionate about solving real-world problems using technology and learning IT Infrastructure & Management, DevOps methodologies, and Cybersecurity.  
 
 ---
