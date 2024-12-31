@@ -13,7 +13,7 @@ Passionate about solving real-world problems using technology and learning IT In
 - **ID/PS and SIEM**: Snort, AlienVault OSSIM  
 
 ### Linux  
-- CentOS, Shell Scripting and Automation, Apache Web Server, Firewalld, Postfix Mail Server, vsFTP, NFS, Samba  
+-Kali, Ubuntu, CentOS, Shell Scripting and Automation, Apache Web Server, Firewalld, Postfix Mail Server, vsFTP, NFS, Samba  
 
 ### Windows  
 - Active Directory, Windows Deployment Server, IP Address Management (IPAM), IIS Server, Group Policy Management  
